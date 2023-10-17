@@ -1,0 +1,202 @@
+[
+  {
+    "model": "task.menu",
+    "pk": 16,
+    "fields": {
+      "name": "Времена года",
+      "slug": "vremena-goda",
+      "parent": null,
+      "created": "2023-10-17T20:42:35.674Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 17,
+    "fields": {
+      "name": "Январь",
+      "slug": "yanvar",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.676Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 18,
+    "fields": {
+      "name": "Февраль",
+      "slug": "fevral",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.677Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 19,
+    "fields": {
+      "name": "Март",
+      "slug": "mart",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.678Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 20,
+    "fields": {
+      "name": "Апрель",
+      "slug": "aprel",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.680Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 21,
+    "fields": {
+      "name": "Май",
+      "slug": "maj",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.681Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 22,
+    "fields": {
+      "name": "Июнь",
+      "slug": "iyun",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.682Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 23,
+    "fields": {
+      "name": "Июль",
+      "slug": "iyul",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.683Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 24,
+    "fields": {
+      "name": "Август",
+      "slug": "avgust",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.684Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 25,
+    "fields": {
+      "name": "Сентябрь",
+      "slug": "sentyabr",
+      "parent": 16,
+      "created": "2023-10-17T20:42:35.685Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 26,
+    "fields": {
+      "name": "первая неделя",
+      "slug": "pervaya-nedelya",
+      "parent": 22,
+      "created": "2023-10-17T20:43:12.714Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 27,
+    "fields": {
+      "name": "вторая неделя",
+      "slug": "vtoraya-nedelya",
+      "parent": 22,
+      "created": "2023-10-17T20:43:12.717Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 28,
+    "fields": {
+      "name": "третья  неделя",
+      "slug": "tretya-nedelya",
+      "parent": 22,
+      "created": "2023-10-17T20:43:12.725Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 29,
+    "fields": {
+      "name": "Понедельник",
+      "slug": "ponedelnik",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.733Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 30,
+    "fields": {
+      "name": "Вторник",
+      "slug": "vtornik",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.734Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 31,
+    "fields": {
+      "name": "Среда",
+      "slug": "sreda",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.735Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 32,
+    "fields": {
+      "name": "Четверг",
+      "slug": "chetverg",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.735Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 33,
+    "fields": {
+      "name": "Пятница",
+      "slug": "pyatnica",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.736Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 34,
+    "fields": {
+      "name": "Суббота",
+      "slug": "subbota",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.737Z"
+    }
+  },
+  {
+    "model": "task.menu",
+    "pk": 35,
+    "fields": {
+      "name": "Воскресенье",
+      "slug": "voskresene",
+      "parent": 26,
+      "created": "2023-10-17T20:43:48.737Z"
+    }
+  }
+]

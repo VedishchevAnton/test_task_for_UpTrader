@@ -12,4 +12,4 @@ class MenuView(View):
         # Определяем контекст шаблона
         context = {'menu_name': slug, 'title': slug if slug else 'Главная'}
         # Возвращаем ответ с отрендеренным шаблоном и контекстом
-        return render(request, 'catalog/includes/index.html', context)
+        return render(request, 'catalog/index.html', context)
