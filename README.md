@@ -34,11 +34,6 @@ python -m venv venv
 source venv/Scripts/activate
 ```
 
-### Запуск на локальной машине:
-#### Открываем в консоли папку backend:
-```bash
-cd backend
-```
 
 #### Обновляем pip и ставим зависимости из requirements.txt:
 ```bash
