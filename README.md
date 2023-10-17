@@ -61,3 +61,5 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
+
+#### Админка доступна по ссылке  http://localhost:8000/admin/ 
