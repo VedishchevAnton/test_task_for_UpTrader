@@ -17,13 +17,13 @@
 
 
 ### Запуск проекта
-Клонируем репозиторий и переходим в него:
+#### Клонируйте репозиторий и переходите в него:
 ```bash
 git clone https://github.com/VedishchevAnton/test_task_for_UpTrader.git
-cd task_for_UpTrader
+cd test_task_for_UpTrader
 ```
 
-#### Создаем и активируем виртуальное окружение:
+#### Создайте и активируйте виртуальное окружение:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -35,7 +35,7 @@ source venv/Scripts/activate
 ```
 
 
-#### Обновляем pip и ставим зависимости из requirements.txt:
+#### Обновите pip и ставим зависимости из requirements.txt:
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
